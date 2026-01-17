@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd3e8b38-ea2a-4d00-b990-017e8d69f63a" name="Changes" comment="Hello Backend World">
-      <change afterPath="$PROJECT_DIR$/src/basics/UserRegistrationService.java" afterDir="false" />
+    <list default="true" id="dd3e8b38-ea2a-4d00-b990-017e8d69f63a" name="Changes" comment="Assign 1 Done">
+      <change afterPath="$PROJECT_DIR$/src/oops/OrderApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloBackend.executor": "Run",
+    "Application.OrderApp.executor": "Run",
     "Application.UserRegistrationService.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -58,12 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1768644110884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assign 1 Done">
+      <option name="closed" value="true" />
+      <created>1768645002600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768645002600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello Backend World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello Backend World" />
+    <MESSAGE value="Assign 1 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assign 1 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
